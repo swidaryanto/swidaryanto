@@ -1,6 +1,6 @@
 **hi there!** ✦
 
-**Senior Product Designer (IC) at Hypefast**  
+I'm Septian, a Senior Product Designer at Hypefast.
 Based in Jakarta, Indonesia. I specialize in crafting human-centric interfaces and scalable design systems.
 
 ---
