@@ -15,11 +15,11 @@ I design human-centered interfaces and scalable design systems, then work closel
 - Made CMS failure fallback behavior consistent for better reliability
 
 ### Toolbox
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logoColor=white)
-![Ghostty](https://img.shields.io/badge/Ghostty-4285F4?style=flat&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-4285F4?style=flat&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-4285F4?style=flat&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-000000?style=flat&logo=sanity&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 
 ### Let’s Connect
 [Portfolio](https://widaryanto.com/) · [LinkedIn](https://linkedin.com/in/septianwidaryanto) · [Email](mailto:septianwidaryanto@gmail.com)
