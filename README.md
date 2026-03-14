@@ -6,12 +6,6 @@ I design human-centered interfaces and scalable design systems, then work closel
 - Design systems for speed and consistency across teams
 - Product improvements that balance UX quality, delivery speed, and business goals
 
-**Recently Shipped to Production**
-- Improved first load performance by splitting non-home bundles
-- Fixed browser back/forward navigation state sync
-- Improved accessibility for interactive project/writing rows (keyboard + semantics)
-- Made CMS failure fallback behavior consistent for better reliability
-
 **Toolbox**
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
