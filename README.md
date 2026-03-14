@@ -7,6 +7,7 @@ I design human-centered interfaces and scalable design systems, then work closel
 - Product improvements that balance UX quality, delivery speed, and business goals
 
 **Toolbox**
+
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
