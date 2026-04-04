@@ -13,7 +13,7 @@ Currently bridging design and engineering, building tools I use myself.
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![cmux](https://img.shields.io/badge/cmux-000000?style=flat&logo=gnometerminal&logoColor=white)
 
 **Stack** — what I build with
