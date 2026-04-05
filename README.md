@@ -23,4 +23,5 @@ Currently bridging design and engineering, building tools I use myself.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 **Let's Connect**
+
 [Portfolio](https://widaryanto.com/) · [LinkedIn](https://linkedin.com/in/septianwidaryanto) · [Email](mailto:septianwidaryanto@gmail.com)
