@@ -7,7 +7,7 @@ Currently bridging design and engineering, building tools I use myself.
 - Ship small, focused tools that solve real problems I encounter
 
 **Currently Building**
-- Internal web app to replace Retool — aiming to save ~$6k/year for the team
+- Internal website for internal teams to save ~$4k/year
 - macOS menu bar tools, time-based journaling apps, and productivity utilities
 
 **Toolbox** — tools I work with
