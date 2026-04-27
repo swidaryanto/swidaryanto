@@ -1,4 +1,4 @@
-I'm Septian Widaryanto — Senior Product Designer at Hypefast, based in Bekasi, Indonesia.
+Hi I'm Septian — Senior Product Designer at Hypefast, based in Bekasi, Indonesia.
 Currently bridging design and engineering, building tools I use myself.
 
 **What I Do**
