@@ -1,10 +1,10 @@
-Hi I'm Septian — Senior Product Designer at Hypefast, based in Bekasi, Indonesia.
-Currently bridging design and engineering, building tools I use myself.
+Hi I'm Septian — Senior Product Designer & Beginner Software Developer at Hypefast, based in Bekasi, Indonesia.
+Currently bridging design and engineering, building tools I use myself and company wide.
 
 **What I Do**
-- End-to-end product design: discovery, flows, UI, and handoff
-- Design systems for speed and consistency across teams
-- Ship small, focused tools that solve real problems I encounter
+- End-to-end product design: discovery, flows, UI, and handoff.
+- Design systems for speed and consistency across products.
+- Ship small, focused tools that solve real problems I encounter.
 
 **Currently Building**
 - Internal website for internal teams to save ~$4k/year
