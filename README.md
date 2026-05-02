@@ -9,6 +9,6 @@ Currently bridging design and engineering, building tools I use myself and compa
 - Internal website for internal teams to save ~$4k/year
 - macOS menu bar tools, time-based journaling apps, and productivity utilities
 
-**Toolbox** — ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
+**Toolbox**: ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 
 **Let's Connect** - [LinkedIn](https://linkedin.com/in/septianwidaryanto)
