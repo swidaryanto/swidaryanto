@@ -11,8 +11,8 @@ Currently bridging design and engineering, building tools I use myself and compa
 
 **Toolbox** — tools I work with
 
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logo=anthropic&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
 
 **Let's Connect**
