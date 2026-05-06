@@ -1,4 +1,4 @@
-Hi I'm Septian,  Product Designer & Beginner Developer at Hypefast, based in Indonesia. Currently bridging design and engineering, building tools I use myself and company wide.
+Hi I'm Septian,  Product Designer & Beginner Developer at Hypefast, based in Indonesia. Currently bridging design and engineering, building tools for company wide.
 
 **What I Do**
 - End-to-end product development: design, discovery, flows, UI, and handoff.
