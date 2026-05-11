@@ -9,5 +9,3 @@ Hi I'm Septian, a Product builder, currently building mdtoppt (free!), ilojourna
 - time-based journaling apps, and productivity apps.
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white)
-
-**Let's Connect** in [LinkedIn](https://linkedin.com/in/septianwidaryanto)
