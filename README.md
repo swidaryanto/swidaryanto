@@ -1,4 +1,4 @@
-Hi I'm Septian, a Product Designer & Beginner Developer at Hypefast, based in Indonesia. Currently building mdtoppt, ilojournal, and tools for company.
+Hi I'm Septian, a Product builder, currently building mdtoppt (free!), ilojournal, and tools for company.
 
 **What I Do**
 - End-to-end product development: design, discovery, flows, UI, and handoff.
