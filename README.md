@@ -1,4 +1,4 @@
-Septian is a Product builder, currently he is building mdtoppt (free!), ilojournal, and tools for small medium company.
+Septian is a Product Designer & Builder, currently he is building mdtoppt (free!), ilojournal, and tools for small medium company.
 
 **What He Do**
 - End-to-end product development: design, discovery, flows, UI, and handoff.
