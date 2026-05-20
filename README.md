@@ -1,4 +1,6 @@
-Septian is a Product Designer & Builder, currently he is building mdtoppt (free!), ilojournal, and tools for small medium company.
+Septian is a Product Designer & Builder, currently building mdtoppt (free!), ilo journal, and tools that works for small medium company.
+
+He optimize Hermes Agent too!
 
 **What He Do**
 - End-to-end product development: design, discovery, flows, UI, and handoff.
