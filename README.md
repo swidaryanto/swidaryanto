@@ -1,6 +1,5 @@
-Septian is a Product Designer & Builder, currently building mdtoppt (free!), ilo journal, and tools that works for small medium company.
-
-He optimize Hermes Agent too with Xiaomi MiMo for main conversation!
+Hi, Currently I was building mdtoppt (free!), ilo journal, and tools that works for small medium company.
+I used Hermes Agent a lot with Xiaomi MiMo, Codex and DeepSeek as main LLM!
 
 **What He Do**
 - End-to-end product development: design, discovery, flows, UI, and handoff.
