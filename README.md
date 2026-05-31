@@ -1,7 +1,7 @@
 Hi, Currently I was building mdtoppt (free!), ilo journal, and tools that works for small medium company.
 I used Hermes Agent a lot with Xiaomi MiMo, Codex and DeepSeek as main LLM!
 
-**Daily Activities**
+**I do**
 - End-to-end product development: design, discovery, flows, UI, and handoff.
 - Design systems for speed and consistency across products.
 
