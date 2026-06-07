@@ -1,6 +1,25 @@
-Hi, Currently I was building mdtoppt (free!), ilo journal, and tools that works for small medium company.
-I used Hermes Agent a lot with Codex, Xiaomi MiMo and DeepSeek as main LLM!
+##### Hi, I'm Septian
 
-I do End-to-end product development: design, discovery, flows, UI, and handoff. I also do Design systems/UI Library for speed and consistency across products.
+##### Building Innovative Products for Small to Medium-Sized Companies
+
+As a seasoned product developer, I've had the privilege of working on exciting projects, including mdtoppt, ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept to launch, ensuring seamless user experiences and efficient design systems.
+
+##### My Tech Stack
+
+I'm passionate about harnessing the power of cutting-edge technologies to drive innovation. My go-to tools include:
+
+Hermes Agent for seamless integration and automation
+Codex for AI-driven insights and decision-making
+Xiaomi MiMo and DeepSeek as my primary Large Language Models (LLMs)
+My Expertise
+
+##### As a product developer, I bring a comprehensive skillset to the table:
+
+End-to-end product development: design, discovery, flows, UI, and handoff
+Design systems/UI Library creation for speed, consistency, and scalability across products
+Proficiency in working with various technologies and tools to drive innovation and efficiency
+Let's Collaborate
+
+If you're looking for a dedicated product developer who can bring your ideas to life, I'm here to help. Let's work together to create innovative solutions that drive growth and success for your company.
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-000000?style=flat&logoColor=white)
