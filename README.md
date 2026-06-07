@@ -11,9 +11,11 @@ I'm passionate about harnessing the power of cutting-edge technologies to drive 
 Hermes Agent for seamless integration and automation
 Codex for AI-driven insights and decision-making
 Xiaomi MiMo and DeepSeek as my primary Large Language Models (LLMs)
-My Expertise
 
-##### As a product developer, I bring a comprehensive skillset to the table:
+
+##### My Expertise
+
+As a product developer, I bring a comprehensive skillset to the table:
 
 End-to-end product development: design, discovery, flows, UI, and handoff
 Design systems/UI Library creation for speed, consistency, and scalability across products
