@@ -7,20 +7,9 @@ As a seasoned product developer, I've had the privilege of working on exciting p
 ##### My Tech Stack
 
 I'm passionate about harnessing the power of cutting-edge technologies to drive innovation. My go-to tools include:
-
-Hermes Agent for seamless integration and automation
-Codex for AI-driven insights and decision-making
-Xiaomi MiMo and DeepSeek as my primary Large Language Models (LLMs)
-
-
-##### My Expertise
-
-As a product developer, I bring a comprehensive skillset to the table:
-
-End-to-end product development: design, discovery, flows, UI, and handoff
-Design systems/UI Library creation for speed, consistency, and scalability across products
-Proficiency in working with various technologies and tools to drive innovation and efficiency
-Let's Collaborate
+1. Hermes Agent for seamless integration and automation
+2. Codex for AI-driven insights and decision-making, and
+3. Xiaomi MiMo and DeepSeek as my primary Large Language Models (LLMs)
 
 If you're looking for a dedicated product developer who can bring your ideas to life, I'm here to help. Let's work together to create innovative solutions that drive growth and success for your company.
 
