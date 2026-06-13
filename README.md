@@ -6,7 +6,7 @@ As a seasoned product developer, I've had the privilege of working on exciting p
 
 ##### My Tech Stack
 
-I'm passionate about harnessing the power of technologies to drive innovation. My go-to tools include:
+I'm passionate about harnessing the power of technologies to drive innovation, including:
 1. Hermes Agent for seamless integration and automation.
 2. Codex and Claude for AI-driven insights, decision-making, coding stuff, and
 3. Xiaomi MiMo and DeepSeek as my supported Large Language Models (LLMs), I installed them to my Hermes Agent.
