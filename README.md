@@ -1,8 +1,8 @@
 ##### Hi, I'm Septian
 
-##### Building Innovative Products for Small to Medium-Sized Companies
+##### Building Innovative Products for Small to Medium-Sized (SMSE) Companies 
 
-As a designer turn to code with AI, I've had the privilege of working on exciting projects, including mdtoppt (my markdown conversion to ppt), ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept to launch, ensuring seamless user experiences and efficient design systems.
+As a designer turn to coder with AI, I've had the privilege of working on exciting projects, including mdtoppt (my markdown conversion to ppt), ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept, design to launch, ensuring seamless user experiences and efficient design systems.
 
 ##### My Tech Stack
 
