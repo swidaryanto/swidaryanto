@@ -4,8 +4,6 @@
 
 As a designer turn to coder with AI, I've had the privilege of working on exciting projects, including mdtoppt (my markdown conversion to ppt), ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept, design to launch, ensuring seamless user experiences and efficient design systems.
 
-##### My Tech Stack
-
 I'm passionate about harnessing the power of technologies to drive innovation, including:
 1. Hermes Agent for seamless integration and automation.
 2. Codex and Claude for AI-driven insights, decision-making, coding stuff, and
