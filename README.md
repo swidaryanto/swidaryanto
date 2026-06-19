@@ -1,9 +1,7 @@
 ##### Hi, I'm Septian
 
-As a designer who build with AI, I built mdtoppt (my markdown conversion to ppt), ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept 0 to launch 1, ensuring seamless user experiences and efficient design systems.
+I was designer but now builder, I try to built mdtoppt (my markdown conversion to ppt), ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept 0 to launch 1, ensuring seamless user experiences and efficient design systems.
 
-I'm passionate about harnessing the power of technologies to drive innovation, I used: Hermes Agent, Codex and Claude for AI-driven insights, decision-making, coding stuff, and Xiaomi MiMo and DeepSeek as my supported Large Language Models (LLMs), I attached it to my Hermes Agent.
-
-If you're looking for a dedicated product developer who can bring your ideas to life, I'm here to help. Let's work together to create innovative solutions that drive growth and success for your company.
+If you're looking for a dedicated product developer who can bring your ideas to life, I'm here to help!
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-000000?style=flat&logoColor=white)
