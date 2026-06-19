@@ -1,6 +1,10 @@
 ##### Hi, I'm Septian
 
-I was designer but now builder, I try to built mdtoppt (my markdown conversion to ppt), ilo journal, and other tools designed to streamline workflows and boost productivity. My expertise lies in end-to-end product development, from concept 0 to launch 1, ensuring seamless user experiences and efficient design systems.
+I was designer but now builder.
+
+I try to built mdtoppt (my markdown conversion to ppt), ilo journal, and other tools to boost productivity. 
+
+My expertise lies in end-to-end product development, from concept 0 to launch 1, ensuring seamless user experiences and efficient design systems.
 
 If you're looking for a dedicated product developer who can bring your ideas to life, I'm here to help!
 
