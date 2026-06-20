@@ -2,7 +2,7 @@
 
 I was designer but now builder.
 
-I try to built mdtoppt (my markdown conversion to ppt), ilo journal, and other tools to boost productivity. 
+I try to build mdtoppt (my markdown conversion to ppt), ilo journal, and other tools to boost productivity. 
 
 My expertise lies in end-to-end product development, from concept 0 to launch 1, ensuring seamless user experiences and efficient design systems.
 
