@@ -1,7 +1,5 @@
 ##### Hi, I'm Septian
 
-I was designer but now builder.
-
 I build mdtoppt (my markdown conversion to ppt), ilo journal, and other tools to boost productivity. 
 If you're looking for a someone who build your ideas to life, I'm here to help!
 
