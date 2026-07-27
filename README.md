@@ -1,4 +1,6 @@
-Hi I'm Septian, an AI-Applied Product Designer, currently, I build things with AI (vibe code)
+Hi I'm Septian, Indonesian based AI-Applied Product Engineer.
+
+Currently, I build things with AI.
 I'm still learning about fundamental so my vibe code product doesn't have much lack. (at least)
 
 My AI Product: .mdtoppt (https://emditoppt.vercel.app/?theme=nocturne&slide=6)
