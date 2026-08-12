@@ -1,5 +1,4 @@
 Hi I'm Septian. I build things with AI.
-I'm still learning about fundamental so my vibe code product doesn't have much lack. (at least)
 
 My Products: <br> 1. mdtoppt (https://emditoppt.vercel.app/) for your .md to presentation instantly! <br> 2. Still cooking on new app/web. 
 
