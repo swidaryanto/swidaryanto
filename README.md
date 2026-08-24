@@ -1,4 +1,4 @@
-Hi I'm Septian. I build things with AI (I know, I'm still learning the fundamental of programming too)
+Hi! I build things with AI (I know, I'm still learning the fundamental of programming too)
 
 My Products: <br> 1. mdtoppt (https://emditoppt.vercel.app/) for your .md to presentation instantly! <br> 2. Apps Script for Internal tools <br> 3. Loading the content...
 
