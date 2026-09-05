@@ -1,4 +1,4 @@
-Hi! I build things with AI mostly using Cursor and Claude, I'm also still learning the fundamental of programming too.
+Hi! I build things with AI mostly using Cursor and Claude - fundamental of programming is important!
 
 My Products: <br> 1. https://emditoppt.vercel.app/ for your .md to presentation instantly! <br> 2. Apps Script for Internal tools for Retail Operations team at Hypefast <br> 3. Loading the content...
 
