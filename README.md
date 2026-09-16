@@ -1,4 +1,4 @@
-I'm Septian, I build things with: Cursor or Claude Code.
+I'm Septian, I build things with Frontier AI.
 
 My Products: <br> 1. https://emditoppt.vercel.app/ for your uploaded .md to presentation instantly! <br> 2. Apps Script for Internal tools for Retail Operations team at Hypefast <br> 3. Loading the content...
 
