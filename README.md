@@ -1,4 +1,4 @@
-I'm Septian, I build things in my spare time.
+I'm Septian, I build an app in my spare time.
 
 My Products: <br> 1. https://emditoppt.vercel.app/ from .md to presentation instantly! <br> 2. Dashboard apps script to support data cleansing at Hypefast <br> 3. I just exploring to build apps in mac...
 
