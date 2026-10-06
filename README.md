@@ -1,5 +1,3 @@
-Ich bin Septian und entwickle Apps für mehr Produktivität.
-
 Meine Produkte:
 1. https://emditoppt.vercel.app/ / Erstelle im Handumdrehen Präsentationen aus .md-Dateien!
 2. Apps-Script-Dashboard zur Datenbereinigung bei Hypefast
