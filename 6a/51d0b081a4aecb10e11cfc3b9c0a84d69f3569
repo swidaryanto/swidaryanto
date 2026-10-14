@@ -1,0 +1,19 @@
+README.md
+  s_bfa544c7004ff1::t_5445c4019ca805 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6a51d0b081a4aecb10e11cfc3b9c0a84d69f3569",
+  "prompts": {},
+  "sessions": {
+    "s_bfa544c7004ff1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6978dc9a-b969-4dd8-a4e9-6f4895d4f166",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "swidaryanto <53956727+swidaryanto@users.noreply.github.com>"
+    }
+  }
+}
