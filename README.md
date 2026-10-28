@@ -1,7 +1,8 @@
 ### Septian Widaryanto: Design Engineer
 
 Ich gestalte Interfaces – und baue sie selbst. So geht zwischen Entwurf und Code nichts verloren.<br>
-Aus Indonesien · Offen für Design-Engineering-Rollen 
+Aus Indonesien · Offen für Design-Engineering-Rollen
+
 [widaryanto.com](https://widaryanto.com/) · [X @wdrynt](https://x.com/wdrynt)
 
 **Ausgewählte Projekte**
