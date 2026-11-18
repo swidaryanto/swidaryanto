@@ -12,7 +12,6 @@ Offen für Design-Engineering-Rollen
 | Projekt | Beschreibung | Links |
 | --- | --- | --- |
 | **Ilo** | Ein Tagebuch, nach Tagesstunden geordnet, mit automatischem Speichern und Cloud-Sync. | [Live](https://ilojournal.vercel.app/) · [Code](https://github.com/swidaryanto/ilo) |
-| **Card Collector** | Projekt für die Build with Gemini World Tour (Track 3). | [Code](https://github.com/swidaryanto/buildwithgemini-card-collector) |
 | **Tomat** | A menu bar Pomodoro timer for macOS. | |
 | **mdtoppt** | Turn Markdown into presentation slides with live preview, themes, notes, and PPTX export. | [Live](https://emditoppt.vercel.app/) |
 
