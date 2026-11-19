@@ -1,9 +1,9 @@
-### Septian Widaryanto: Design Engineer
+### Septian Widaryanto: Senior Product Designer
 
-Ich gestalte Interfaces – und baue sie selbst. So geht zwischen Entwurf und Code nichts verloren.<br>
+Ich gestalte Interfaces und baue sie immer öfter selbst. Mein Ziel: Design Engineer.<br>
 Aus Indonesien
 
-Offen für Design-Engineering-Rollen
+Offen für Rollen in Product Design und Design Engineering
 
 [widaryanto.com](https://widaryanto.com/) · [X @wdrynt](https://x.com/wdrynt)
 
