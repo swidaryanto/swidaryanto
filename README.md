@@ -3,7 +3,7 @@ Hi, I'm Septian, a senior product designer who builds what he designs.
 Currently building Brim and Tomat, two small macOS apps.<br>
 Based in Indonesia
 
-I'm open to Product Design and Design Engineering roles
+I'm open to Product Design and/or Design Engineering roles
 
 **Selected projects**
 
